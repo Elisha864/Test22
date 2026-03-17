@@ -14,7 +14,7 @@ int main ()
         printf("b is greater than a \n");
         printf("%d" ,b);
     }
-	printf("Je vis, je meurs, je me brûle et me nois\n");
+	printf("Je vis, je meurs, je me brûle et me noie\n");
     return 0;
 
 }
