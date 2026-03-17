@@ -2,6 +2,7 @@
 
 int main(){
 	printf("Bonjour Elisha, passe une bonne journée\n");
+	printf("Merci beaucoup c'est tres plaisant meilleur à toi  \n "); 
 
 	return 0; 
 }
