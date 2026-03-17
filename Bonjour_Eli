@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main(){
+	printf("Bonjour Elisha, passe une bonne journée\n");
+
+	return 0; 
+}
